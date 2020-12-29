@@ -12,6 +12,14 @@
 :root{
   --first-color: #4070F4;
   --second-color: #0E2431;
+
+  /*========== Colors ==========*/
+  --first-color-alt: #048654;
+  --title-color: #393939;
+  --text-color: #707070;
+  --text-color-light: #A6A6A6;
+  --body-color: #FBFEFD;
+  --container-color: #FFFFFF;
 }
 
 /*===== Fuente y tipografia =====*/
@@ -61,7 +69,6 @@ body{
   color: var(--second-color);
 
 }
-
 h1,h2,p{
   margin: 0;
 }
